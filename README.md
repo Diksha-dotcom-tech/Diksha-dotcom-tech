@@ -29,6 +29,9 @@ Recommendation engine built using **TF-IDF and cosine similarity** to process **
 • Integrated **TMDB API** metadata
 • Deployed interactive interface with **Streamlit**
 
+Repository:
+https://github.com/Diksha-dotcom-tech/Movie-Recommendation-System
+
 ---
 
 ### University ERP System
@@ -39,6 +42,9 @@ Role-based academic management system.
 • Built using **Java, MySQL, JDBC**
 • Features include enrollment, grading, and transcript generation
 
+Repository:
+https://github.com/Diksha-dotcom-tech/University_ERP_System
+
 ---
 
 ### RISC-V Assembler & Simulator
@@ -48,6 +54,9 @@ Custom assembler and simulator for **RISC-V instruction sets**.
 • Converts assembly instructions to machine code
 • Simulates instruction execution and CPU registers
 • Explores computer architecture and system design
+
+Repository:
+https://github.com/manojna0012/CO-PROJECT
 
 ---
 
