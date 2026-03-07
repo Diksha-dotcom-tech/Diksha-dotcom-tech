@@ -7,17 +7,16 @@ My work sits at the intersection of **software systems, machine learning, and hu
 
 ## Featured Projects
 
-### ShowCab — UX Research & Product Design
+### University ERP System
 
-User-centered platform for event booking and transportation planning.
+Role-based academic management system.
 
-• Conducted research with **40+ users**
-• Created personas and user journeys
-• Designed high-fidelity prototypes in **Figma**
-• Evaluated usability with satisfaction scores above **4.5/5**
+• Implemented Admin, Instructor, and Student workflows
+• Built using **Java, MySQL, JDBC**
+• Features include enrollment, grading, and transcript generation
 
 Repository:
-https://github.com/Diksha-dotcom-tech/ShowCab-UX-Design-Case-Study
+https://github.com/Diksha-dotcom-tech/University_ERP_System
 
 ---
 
@@ -34,19 +33,6 @@ https://github.com/Diksha-dotcom-tech/Movie-Recommendation-System
 
 ---
 
-### University ERP System
-
-Role-based academic management system.
-
-• Implemented Admin, Instructor, and Student workflows
-• Built using **Java, MySQL, JDBC**
-• Features include enrollment, grading, and transcript generation
-
-Repository:
-https://github.com/Diksha-dotcom-tech/University_ERP_System
-
----
-
 ### RISC-V Assembler & Simulator
 
 Custom assembler and simulator for **RISC-V instruction sets**.
@@ -57,6 +43,20 @@ Custom assembler and simulator for **RISC-V instruction sets**.
 
 Repository:
 https://github.com/manojna0012/CO-PROJECT
+
+---
+
+### ShowCab — UX Research & Product Design
+
+User-centered platform for event booking and transportation planning.
+
+• Conducted research with **40+ users**
+• Created personas and user journeys
+• Designed high-fidelity prototypes in **Figma**
+• Evaluated usability with satisfaction scores above **4.5/5**
+
+Repository:
+https://github.com/Diksha-dotcom-tech/ShowCab-UX-Design-Case-Study
 
 ---
 
