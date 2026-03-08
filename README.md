@@ -91,4 +91,4 @@ LinkedIn
 https://linkedin.com/in/diksha-kaushik
 
 Email
-[diksha24193@iiitd.ac.i](mailto:diksha24193@iiitd.ac.in)
+[diksha24193@iiitd.ac.in](mailto:diksha24193@iiitd.ac.in)
