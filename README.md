@@ -1,4 +1,4 @@
-# Hi, I'm Diksha 👋
+# Hi, I'm Diksha!
 
 Computer Science and Biosciences student at **IIIT Delhi** interested in building technology that solves real-world problems.
 My work sits at the intersection of **software systems, machine learning, and human-centered design**.
@@ -91,4 +91,4 @@ LinkedIn
 https://linkedin.com/in/diksha-kaushik
 
 Email
-[diksha24193@iiitd.ac.in](mailto:diksha24193@iiitd.ac.in)
+[diksha24193@iiitd.ac.i](mailto:diksha24193@iiitd.ac.in)
